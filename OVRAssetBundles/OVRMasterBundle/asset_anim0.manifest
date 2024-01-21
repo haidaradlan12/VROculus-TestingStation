@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 329208506
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5f8e0435ea1cab62564969f7afe23f31
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: af57576da81d5d3ce45807ac11234de6
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Asset Material/NaikLagi.anim
+- Assets/Asset Script/Turun2023.anim
+- Assets/Asset Material/TestingAnimation.anim
+- Assets/Asset Script/Plunger2023.anim
+- Assets/Animation 1.anim
+- Assets/Asset Script/Plunger2023Atas.anim
+- Assets/Asset Script/Naik2023.anim
+Dependencies: []

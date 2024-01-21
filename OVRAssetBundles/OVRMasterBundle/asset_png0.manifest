@@ -1,0 +1,48 @@
+ManifestFileVersion: 0
+CRC: 1600136278
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a011f218b4694680cad3a323ce551022
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4df8c69f2c8a6ad9e3cbf82bb83e4dc3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Oculus/Interaction/Samples/Objects/Environment/MRDesk/Textures/MRDesk.png
+- Assets/Pak Didik/Scene/Home.png
+- Assets/Pak Didik/Scene/Asset Informasi Materi/Materi.png
+- Assets/Artboard 1.png
+- Assets/Pak Didik/Scene/Asset Informasi Materi/Lifting Module 2.png
+- Assets/Pak Didik/Scene/Asset Informasi Materi/Cable Guide 2.png
+- Assets/Oculus/Interaction/Samples/Objects/Environment/Room/Textures/skydomeBaked.png
+- Assets/Oculus/Interaction/Samples/Textures/SCrim.png
+- Assets/Pak Didik/Scene/Asset Informasi Materi/Retro 2.png
+- Assets/Pak Didik/Scene/Asset Informasi Materi/Slide Module 2.png
+- Assets/Oculus/Interaction/Samples/Objects/Environment/Screen/Textures/FrameTexture.png
+- Assets/HurricaneVR/TechDemo/Textures/panel_metallic_smoothness.png
+- Assets/Oculus/Interaction/Samples/Objects/Environment/Room/Textures/ConcreteTiling.png
+- Assets/Oculus/Interaction/Samples/Objects/Environment/Screen/Textures/ScreenTexture.png
+- Assets/Pak Didik/Scene/Asset Informasi Materi/Comparator 2.png
+- Assets/Pak Didik/Scene/Asset Informasi Materi/AIR CUSHIONED SLIDE MODULE 2.png
+- Assets/HurricaneVR/TechDemo/Textures/WhitePanel.png
+- Assets/Oculus/Interaction/Samples/Objects/Environment/Room/Textures/WoodTiling.png
+- Assets/HurricaneVR/TechDemo/Textures/OrangePanel.png
+- Assets/Oculus/Interaction/Samples/Objects/Environment/Room/Textures/floorDiffuse.png
+- Assets/Pak Didik/Scene/Asset Informasi Materi/Measuring 2.png
+- Assets/Oculus/VR/Textures/OculusTouchForRift/touchController_albedo.png
+- Assets/Oculus/Interaction/Samples/Objects/Props/StonePolyhedra/Textures/StonePolyhedra_AlbedoRoughness.png
+- Assets/Oculus/Interaction/Runtime/Textures/fingers_glow_mask.png
+- Assets/Oculus/Interaction/Samples/Objects/Environment/Room/Textures/CarpetTiling.png
+- Assets/HurricaneVR/TechDemo/Textures/BlackPanel.png
+- Assets/Pak Didik/Scene/Asset Informasi Materi/Recognition Module 2.png
+- Assets/Oculus/Interaction/Samples/Textures/RoundCorners.png
+- Assets/Oculus/Interaction/Samples/Objects/Environment/MRDesk/Textures/MRDeskShadow.png
+- Assets/Pak Didik/Scene/Asset Informasi Materi/capacitive 2.png
+Dependencies: []

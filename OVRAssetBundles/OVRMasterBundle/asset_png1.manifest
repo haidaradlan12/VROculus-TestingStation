@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 2391677632
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 425468fbc19e2430f8dbfcb6f6afc927
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Pak Didik/Scene/Asset Informasi Materi/Trolley 2.png
+- Assets/Pak Didik/Scene/Asset Informasi Materi/Diffuse Sensor 2.png
+- Assets/Pak Didik/Scene/Asset Informasi Materi/Fiber optic 2.png
+- Assets/Pak Didik/Scene/Asset Informasi Materi/PLC board2.png
+- Assets/Pak Didik/Scene/Asset Informasi Materi/Terminal IO 2.png
+- Assets/Pak Didik/Scene/Asset Informasi Materi/Cable Clip 2.png
+- Assets/Pak Didik/Scene/Asset Informasi Materi/Connector 2.png
+- Assets/Pak Didik/Scene/Asset Informasi Materi/Cable Duct 2.png
+- Assets/Pak Didik/Scene/Asset Informasi Materi/CP Terminal Valve 2.png
+- Assets/Pak Didik/Scene/Asset Informasi Materi/Station Link Reciver 2.png
+- Assets/Pak Didik/Scene/Asset Informasi Materi/Air Serivice Unit 2.png
+- Assets/Pak Didik/Scene/Asset Informasi Materi/profile plate 2.png
+Dependencies: []

@@ -1,0 +1,15 @@
+{
+  "name": "com.meta.xr.simulator",
+  "displayName": "Meta XR Simulator",
+  "version": "54.0.0-preview",
+  "description": "Meta XR Simulator allows developers to preview their VR changes without needing a physical device.",
+  "samples": [],
+  "unity": "2020.3",
+  "author": {
+    "name": "Meta Platforms, Inc.",
+    "url": "https://developer.oculus.com/"
+  },
+  "documentationUrl": "https://developer.oculus.com/documentation/unity/",
+  "changelogUrl": "https://developer.oculus.com/downloads/package/unity-integration/",
+  "licensesUrl": "https://developer.oculus.com/licenses/oculussdk"
+}

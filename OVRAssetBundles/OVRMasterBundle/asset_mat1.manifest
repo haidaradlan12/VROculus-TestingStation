@@ -1,0 +1,55 @@
+ManifestFileVersion: 0
+CRC: 93705467
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 279f7e618275e88bb3a31c9d9b0c4e9d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 939e20ecac0e95a3f7c5cfb3e57acb1d
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Asset Material/Magenta.mat
+- Assets/Materials/New Material 1.mat
+- Assets/Materials/New Material.mat
+- Assets/Asset Material/Blue.mat
+- Assets/Skripsi/Material/New Material.mat
+- Assets/Asset Material/Hijau.mat
+- Assets/Oculus/Interaction/Samples/Objects/Environment/Screen/Materials/ScreenMaterial.mat
+- Assets/Materials/Artboard 1.mat
+- Assets/Asset 3D/Material/Hijau.mat
+- Assets/Asset Material/Cyan.mat
+- Assets/Oculus/Interaction/Samples/Objects/Props/StonePolyhedra/Materials/StonePolyhedraMat.mat
+- Assets/Asset Material/Merah.mat
+- Assets/Pak Didik/Scene/Asset Informasi Materi/Materials/CP Terminal Valve 2.mat
+- Assets/Pak Didik/Scene/Materials/Tujuan 2.mat
+- Assets/Pak Didik/Scene/Asset Informasi Materi/Materials/Retro 2.mat
+- Assets/Materials/DropObject.mat
+- Assets/Pak Didik/Scene/Asset Informasi Materi/Materials/Comparator 2.mat
+- Assets/Pak Didik/Scene/Asset Informasi Materi/Materials/Fiber optic 2.mat
+- Assets/Pak Didik/Scene/Asset Informasi Materi/Materials/Cable Guide 2.mat
+- Assets/Pak Didik/Scene/Asset Informasi Materi/Materials/capacitive 2.mat
+- Assets/Pak Didik/Scene/Asset Informasi Materi/Materials/Slide Module 2.mat
+- Assets/Pak Didik/Scene/Asset Informasi Materi/Materials/AIR CUSHIONED SLIDE MODULE
+  2.mat
+- Assets/Materials/New Material 3.mat
+- Assets/Asset 3D/Material/BalokHitam.mat
+- Assets/Asset 3D/Material/Putih.mat
+- Assets/Materials/New Material 5.mat
+- Assets/Pak Didik/Scene/Asset Informasi Materi/Materials/Measuring 2.mat
+- Assets/Pak Didik/Scene/Asset Informasi Materi/Materials/Recognition Module 2.mat
+- Assets/Pak Didik/Scene/Asset Informasi Materi/Materials/Lifting Module 2.mat
+- Assets/Oculus/Interaction/Samples/Objects/Environment/Screen/Materials/FrameMaterial.mat
+Dependencies:
+- F:/Testing Station-001/Testing Station/OVRAssetBundles/OVRMasterBundle/asset_jpg0
+- F:/Testing Station-001/Testing Station/OVRAssetBundles/OVRMasterBundle/asset_png0
+- F:/Testing Station-001/Testing Station/OVRAssetBundles/OVRMasterBundle/asset_png1
+- F:/Testing Station-001/Testing Station/OVRAssetBundles/OVRMasterBundle/asset_shader0

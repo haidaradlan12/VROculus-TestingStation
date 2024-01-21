@@ -1,0 +1,38 @@
+ManifestFileVersion: 0
+CRC: 4266014416
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 876d9567ca8fda42a2eaba2b8d891c80
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 939e20ecac0e95a3f7c5cfb3e57acb1d
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Pak Didik/Scene/Asset Informasi Materi/Materials/Diffuse Sensor 2.mat
+- Assets/Pak Didik/Scene/Asset Informasi Materi/Materials/Petunjuk copy 1.mat
+- Assets/Pak Didik/Scene/Asset Informasi Materi/Materials/ui 2.mat
+- Assets/Pak Didik/Scene/Asset Informasi Materi/Materials/Air Serivice Unit 2.mat
+- Assets/Pak Didik/Scene/Asset Informasi Materi/Materials/REview 2.mat
+- Assets/Pak Didik/Scene/Asset Informasi Materi/Materials/Trolley 2.mat
+- Assets/Pak Didik/Scene/Asset Informasi Materi/Materials/Terminal IO 2.mat
+- Assets/Pak Didik/Scene/Asset Informasi Materi/Materials/Connector 2.mat
+- Assets/Pak Didik/Scene/Asset Informasi Materi/Materials/profile plate 2.mat
+- Assets/Pak Didik/Scene/Asset Informasi Materi/Materials/Cable Clip 2.mat
+- Assets/Pak Didik/Scene/Asset Informasi Materi/Materials/Cable Duct 2.mat
+- Assets/Pak Didik/Scene/Asset Informasi Materi/Materials/PLC board2.mat
+- Assets/Skripsi/Materials/REview.mat
+- Assets/Pak Didik/Scene/Asset Informasi Materi/Materials/Station Link Reciver 2.mat
+- Assets/Pak Didik/Scene/Materials/Main Menu 1.mat
+Dependencies:
+- F:/Testing Station-001/Testing Station/OVRAssetBundles/OVRMasterBundle/asset_jpg0
+- F:/Testing Station-001/Testing Station/OVRAssetBundles/OVRMasterBundle/asset_png1
+- F:/Testing Station-001/Testing Station/OVRAssetBundles/OVRMasterBundle/asset_shader0

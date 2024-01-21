@@ -1,0 +1,55 @@
+ManifestFileVersion: 0
+CRC: 4274140726
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 86fcdf91c7f00b7c394e66639844180d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 939e20ecac0e95a3f7c5cfb3e57acb1d
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Oculus/VR/Meshes/OculusTouchForQuestAndRiftS/Materials/OculusTouchForQuestAndRiftS_Material.mat
+- Assets/Oculus/Interaction/Samples/Objects/Environment/Room/Materials/SmallRoomRugMat.mat
+- Assets/Oculus/Interaction/Samples/Objects/Environment/Room/Materials/StencilSkydome.mat
+- Assets/Pak Didik/Scene/Asset Informasi Materi/Materials/Petunjuk 2.mat
+- Assets/Oculus/Interaction/Samples/Objects/Environment/MRDesk/Materials/MRDeskMat.mat
+- Assets/Oculus/Interaction/Runtime/Materials/UIDepthOverwrite.mat
+- Assets/Asset 3D/Material/New Material.mat
+- Assets/HurricaneVR/TechDemo/Materials/mat_WhitePanel.mat
+- Assets/Asset Material/Biru.mat
+- Assets/Oculus/SampleFramework/Usage/Passthrough/Materials/Red.mat
+- Assets/Asset Material/Kuning.mat
+- Assets/HurricaneVR/TechDemo/Materials/mat_BlackPanel.mat
+- Assets/Oculus/VR/Meshes/OculusTouchForRift/Materials/OculusTouchForRift_Material.mat
+- Assets/Oculus/SampleFramework/Usage/SpatialAnchor/Materials/UIPanelMat.mat
+- Assets/Pak Didik/Scene/Materials/Main Menu2.mat
+- Assets/Oculus/Interaction/Samples/Objects/Environment/MRDesk/Materials/MRDeskShadow.mat
+- Assets/Materials/New Material 2.mat
+- Assets/Asset 3D/Material/Merah.mat
+- Assets/Materials/New Material 4.mat
+- Assets/HurricaneVR/TechDemo/Materials/mat_OrangePanel.mat
+- Assets/Oculus/Interaction/Samples/Objects/Environment/Room/Materials/SmallRoomFloorMat.mat
+- Assets/Oculus/Interaction/Runtime/Materials/UIUnderlayImposter.mat
+- Assets/Oculus/Interaction/Runtime/Materials/RoundedBoxUnlit.mat
+- Assets/Oculus/Interaction/Runtime/Materials/OculusHand.mat
+- Assets/Oculus/VR/Meshes/OculusTouchForQuest2/Materials/OculusTouchForQuest2_MAT.mat
+- Assets/Pak Didik/Scene/Asset Informasi Materi/Materials/Materi.mat
+- Assets/Oculus/Interaction/Runtime/Materials/GrabDebugSphere.mat
+- Assets/Pak Didik/Scene/Materials/Home.mat
+- Assets/Oculus/Interaction/Runtime/Materials/UIDefaultOverlay.mat
+- Assets/Oculus/Interaction/Runtime/Materials/Unlit Material.mat
+Dependencies:
+- F:/Testing Station-001/Testing Station/OVRAssetBundles/OVRMasterBundle/asset_jpg0
+- F:/Testing Station-001/Testing Station/OVRAssetBundles/OVRMasterBundle/asset_png0
+- F:/Testing Station-001/Testing Station/OVRAssetBundles/OVRMasterBundle/asset_resources
+- F:/Testing Station-001/Testing Station/OVRAssetBundles/OVRMasterBundle/asset_shader0
+- F:/Testing Station-001/Testing Station/OVRAssetBundles/OVRMasterBundle/asset_tga0

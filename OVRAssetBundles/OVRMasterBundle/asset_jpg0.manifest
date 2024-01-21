@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 2575184633
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0df3c720159d2bd7bbe3f8f6184a4c5e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Skripsi/REview.jpg
+- Assets/Pak Didik/Scene/Asset Informasi Materi/REview 2.jpg
+- Assets/Pak Didik/Scene/Asset Informasi Materi/Petunjuk copy 1.jpg
+- Assets/Pak Didik/Scene/Main Menu2.jpg
+- Assets/Pak Didik/Scene/Main Menu 1.jpg
+- Assets/Pak Didik/Scene/Asset Informasi Materi/Petunjuk 2.jpg
+- Assets/Pak Didik/Scene/Asset Informasi Materi/ui 2.jpg
+- Assets/Pak Didik/Scene/Tujuan 2.jpg
+Dependencies: []

@@ -1,0 +1,327 @@
+ManifestFileVersion: 0
+CRC: 2993965587
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6566811067ad6f05001546abbf7040b1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 15cc25f9ff4aaae7c9fda178edaa24c6
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11995, guid: 0000000000000000e000000000000000, type: 0}
+- Class: 114
+  Script: {fileID: 11998, guid: 0000000000000000e000000000000000, type: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: dd81e9e4d5c74d6e99fd2fadd5e6c0f0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b775075551dfdd947bebcfce71c1a7c1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ab2114bdc8544297b417dfefe9f1e410, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bd9d00baedc13ac4c8dd0471f8368b59, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e581938f8c0341839ae0a0294479b8d3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 97ec8575e5e09a146a23021088dea0bd, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 191492db6e452eb468b95433ec162164, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0b3a39c3d29bcbf45b97a504fc1dedbe, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 54d21f6ece3b46479f0c328f8c6007e0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2705215ac5b84b70bacc50632be6e391, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 226cce0b7ab93444c9da83b531f6aa9a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2242baed513f2a04793dd67910504d3a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 84a92b25f83d49b9bc132d206b370281, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ad074644ff568a14187a3690cfbd7534, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a32cc63482144afa9752d0981ca1e93f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ab72751261f74e5ebaa6986a0464cd15, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3f4b45d8c70a62244bfa9166d937dac9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: becb07c7d7e24b889e62802a34e26d48, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3863570e7e6387a40ae4f323d83291e5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 116e10a48820aa441825256bbafbd9c3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dc30735a6f974fda88a33f70e2b17a3b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: cb2759c823f44d27b9a55f99eabacb8f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4b171784bbbe1f24784deef229788af8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b3d881e962d099f4a8eb492ef7e9a8c0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0afd8501793f4c08903068b0bdc79809, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 134
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: HurricaneVR.Framework
+  ClassName: HurricaneVR.Framework.Components.HVRDevicePoseOffset
+- AssemblyName: HurricaneVR.Framework
+  ClassName: HurricaneVR.Framework.Core.HandPoser.Data.HVRHandPoseData
+- AssemblyName: HurricaneVR.Framework
+  ClassName: HurricaneVR.Framework.Core.HandPoser.Data.HVRPosableBoneData
+- AssemblyName: HurricaneVR.Framework
+  ClassName: HurricaneVR.Framework.Core.HandPoser.Data.HVRPosableFingerData
+- AssemblyName: HurricaneVR.Framework
+  ClassName: HurricaneVR.Framework.Core.HandPoser.HVRJointMirrorSetting
+- AssemblyName: HurricaneVR.Framework
+  ClassName: HurricaneVR.Framework.Core.HandPoser.HVRPosableBone
+- AssemblyName: HurricaneVR.Framework
+  ClassName: HurricaneVR.Framework.Core.HandPoser.HVRPosableFinger
+- AssemblyName: HurricaneVR.Framework
+  ClassName: HurricaneVR.Framework.Core.HandPoser.MirrorAxis
+- AssemblyName: HurricaneVR.Framework
+  ClassName: HurricaneVR.Framework.Core.ScriptableObjects.HVRAngularJointDrive
+- AssemblyName: HurricaneVR.Framework
+  ClassName: HurricaneVR.Framework.Core.ScriptableObjects.HVRJointDrive
+- AssemblyName: HurricaneVR.Framework
+  ClassName: HurricaneVR.Framework.Core.ScriptableObjects.HVRSoftJointLimit
+- AssemblyName: HurricaneVR.Framework
+  ClassName: HurricaneVR.Framework.Core.ScriptableObjects.HVRSoftJointLimitSpring
+- AssemblyName: HurricaneVR.Framework
+  ClassName: HurricaneVR.Framework.Shared.HVRTouchWeight
+- AssemblyName: HurricaneVR.Framework
+  ClassName: HurricaneVR.Framework.Shared.HapticData
+- AssemblyName: HurricaneVR.Framework
+  ClassName: HurricaneVR.Framework.Shared.InputAxes
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.FaceInfo_Legacy
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.FontAssetCreationSettings
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.KerningTable
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_Character
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_FontFeatureTable
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_FontWeightPair
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_GlyphAdjustmentRecord
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_GlyphPairAdjustmentRecord
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_GlyphValueRecord
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_Sprite
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_SpriteCharacter
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_SpriteGlyph
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_Style
+- AssemblyName: UnityEngine.TextCoreModule
+  ClassName: UnityEngine.TextCore.FaceInfo
+- AssemblyName: UnityEngine.TextCoreModule
+  ClassName: UnityEngine.TextCore.Glyph
+- AssemblyName: UnityEngine.TextCoreModule
+  ClassName: UnityEngine.TextCore.GlyphMetrics
+- AssemblyName: UnityEngine.TextCoreModule
+  ClassName: UnityEngine.TextCore.GlyphRect
+- AssemblyName: UnityEngine.UIElementsModule
+  ClassName: UnityEngine.UIElements.StyleComplexSelector
+- AssemblyName: UnityEngine.UIElementsModule
+  ClassName: UnityEngine.UIElements.StyleProperty
+- AssemblyName: UnityEngine.UIElementsModule
+  ClassName: UnityEngine.UIElements.StyleRule
+- AssemblyName: UnityEngine.UIElementsModule
+  ClassName: UnityEngine.UIElements.StyleSelector
+- AssemblyName: UnityEngine.UIElementsModule
+  ClassName: UnityEngine.UIElements.StyleSelectorPart
+- AssemblyName: UnityEngine.UIElementsModule
+  ClassName: UnityEngine.UIElements.StyleSheets.Dimension
+- AssemblyName: UnityEngine.UIElementsModule
+  ClassName: UnityEngine.UIElements.StyleValueHandle
+- AssemblyName: UnityEngine.UIElementsModule
+  ClassName: UnityEngine.UIElements.TemplateAsset
+- AssemblyName: UnityEngine.UIElementsModule
+  ClassName: UnityEngine.UIElements.VisualElementAsset
+- AssemblyName: UnityEngine.UIElementsModule
+  ClassName: UnityEngine.UIElements.VisualTreeAsset/UsingEntry
+Assets:
+- Assets/Resources/OVRBuildConfig.asset
+- Assets/HurricaneVR/Framework/Resources/HandSettings/HVR_Pistol_Stabilizer_TwoHanded.asset
+- Assets/HurricaneVR/Framework/Resources/InputSettings/Oculus.asset
+- Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Drop Shadow.mat
+- Assets/TextMesh Pro/Resources/LineBreaking Leading Characters.txt
+- Assets/Oculus/VR/Resources/Texture2D Blit.shader
+- Assets/TextMesh Pro/Examples & Extras/Resources/Sprite Assets/Default Sprite Asset.asset
+- Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/LiberationSans
+  SDF - Metalic Green.mat
+- Assets/Resources/OculusPlatformSettings.asset
+- Assets/HurricaneVR/Framework/Resources/HVRLatestReleaseNotes.txt
+- Assets/Oculus/Interaction/Runtime/Resources/Shaders/DepthOverwrite.shader
+- Assets/Oculus/Voice/Lib/Wit.ai/Resources/wit-ai-title.png
+- Assets/Oculus/Avatar/Resources/Materials/Version1.5/Avatar_PC_SingleComponent.shader
+- Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Roboto-Bold SDF.asset
+- Assets/Oculus/Avatar/Resources/FallbackTextures/fallback_normal_256.png
+- Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/LiberationSans
+  SDF - Overlay.mat
+- Assets/HurricaneVR/Framework/Resources/Haptics/HVR_Hand_ImpactHaptics.asset
+- Assets/Oculus/VR/Resources/OVRMRCameraFrameLit.shader
+- Assets/HurricaneVR/Framework/Resources/Haptics/HVR_ImpactHaptics.asset
+- Assets/Oculus/VR/Resources/Cubemap Blit.shader
+- Assets/HurricaneVR/Framework/Editor/Resources/HVRHandPoseEditor.uxml
+- Assets/HurricaneVR/Framework/Resources/HVREditorPreferences.asset
+- Assets/Oculus/VR/Resources/Underlay Impostor.shader
+- Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Anton SDF - Drop
+  Shadow.mat
+- Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Oswald Bold SDF.asset
+- Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Bangers SDF Glow.mat
+- Assets/HurricaneVR/TechDemo/Resources/StabSettings/stab_dummy_head_hard.asset
+- Assets/HurricaneVR/Framework/Resources/HandSettings/HVR_Stabilizer_TwoHanded.asset
+- Assets/HurricaneVR/Framework/Resources/InputSettings/Cosmos.asset
+- Assets/Oculus/VR/Resources/Underlay Transparent Occluder.shader
+- Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Roboto-Bold SDF
+  - Surface.mat
+- Assets/TextMesh Pro/Resources/LineBreaking Following Characters.txt
+- Assets/HurricaneVR/Framework/Resources/HVR_FingerSettings.asset
+- Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Anton SDF - Outline.mat
+- Assets/Oculus/VR/Resources/OVRMRUnlitTransparent.shader
+- Assets/HurricaneVR/Framework/Resources/RecoilSettings/HVR_Recoil_Pistol.asset
+- Assets/HurricaneVR/Framework/Resources/RecoilSettings/HVR_Recoil_SMG.asset
+- Assets/HurricaneVR/Framework/Resources/InputSettings/WMR.asset
+- Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Anton SDF - Sunny
+  Days.mat
+- Assets/HurricaneVR/Framework/Resources/HandSettings/HVR_Pistol_OneHand.asset
+- Assets/Oculus/Voice/Resources/voicesdk_heroart.png
+- Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Roboto-Bold SDF
+  - Drop Shadow.mat
+- Assets/Oculus/VR/Resources/OVRMRCameraFrame.shader
+- Assets/HurricaneVR/TechDemo/Resources/StabSettings/stab_dummy_head_easy.asset
+- Assets/HurricaneVR/TechDemo/Resources/StabSettings/stab_arrow_fallback.asset
+- Assets/Oculus/Interaction/Runtime/Resources/Shaders/UnderlayTransparentOccluderImposter.shader
+- Assets/HurricaneVR/TechDemo/Resources/mjolnir.physicMaterial
+- Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Bangers SDF -
+  Outline.mat
+- Assets/HurricaneVR/Framework/Resources/HandSettings/HVR_LargeWeapon_TwoHanded.asset
+- Assets/Resources/ONSPSettings.asset
+- Assets/HurricaneVR/Framework/Resources/InputSettings/Vive.asset
+- Assets/Oculus/Avatar/Resources/Materials/Expressive/Avatar_Mobile_CombinedMeshExpressive.shader
+- Assets/Oculus/Avatar/Resources/Materials/AvatarSurfaceShaderPBSV2.shader
+- Assets/HurricaneVR/Framework/Editor/Resources/HVRManagementWindow.uss
+- Assets/HurricaneVR/Framework/Resources/InputSettings/Knuckles.asset
+- Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Bangers SDF Logo.mat
+- Assets/HurricaneVR/Framework/Resources/InputSettings/WMRWithButtons.asset
+- Assets/Oculus/Avatar/Resources/FallbackTextures/fallback_diffuse_roughness_256.png
+- Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset
+- Assets/Oculus/Avatar/Resources/Materials/Expressive/Avatar_Mobile_SingleComponentExpressive.shader
+- Assets/HurricaneVR/Framework/Editor/Resources/HVRHandSettingsEditor.uxml
+- Assets/TextMesh Pro/Resources/Style Sheets/Default Style Sheet.asset
+- Assets/HurricaneVR/Framework/Resources/Haptics/HVR_GunHaptics.asset
+- Assets/Oculus/VR/Resources/Unlit Transparent Color.shader
+- Assets/TextMesh Pro/Examples & Extras/Resources/Color Gradient Presets/Yellow to
+  Orange - Vertical.asset
+- Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Bangers SDF.asset
+- Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/LiberationSans
+  SDF - Soft Mask.mat
+- Assets/HurricaneVR/Framework/Resources/DefaultPoses/OculusCustomHandOpen.asset
+- Assets/HurricaneVR/Framework/Editor/Resources/HVRHandPoserEditor.uxml
+- Assets/Oculus/Avatar/Resources/FallbackTextures/fallback_normal_1024.tif
+- Assets/HurricaneVR/TechDemo/Resources/mjolnir_forcepull.asset
+- Assets/HurricaneVR/TechDemo/Resources/mjolnir.asset
+- Assets/Oculus/Avatar/Resources/Materials/AvatarPBRV2Simple.shader
+- Assets/TextMesh Pro/Examples & Extras/Resources/Sprite Assets/DropCap Numbers.asset
+- Assets/HurricaneVR/TechDemo/Resources/StabSettings/stab_dummy_head_med.asset
+- Assets/HurricaneVR/Framework/Editor/Resources/HVRPhysicsPoserEditor.uxml
+- Assets/HurricaneVR/Framework/Resources/RecoilSettings/HVR_Recoil_AR.asset
+- Assets/Oculus/Avatar/Resources/Materials/Version1.5/Avatar_Mobile_CombinedMesh.shader
+- Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset
+- Assets/TextMesh Pro/Resources/Sprite Assets/EmojiOne.asset
+- Assets/HurricaneVR/Framework/Resources/DefaultPoses/OculusPhysicsPoserOpen.asset
+- Assets/HurricaneVR/TechDemo/Resources/StabSettings/stab_target.asset
+- Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Anton SDF.asset
+- Assets/Oculus/Interaction/Runtime/Resources/Shaders/Imposter_AlphaBlended.shader
+- Assets/HurricaneVR/Framework/Editor/Resources/HVRSetupWindow.uxml
+- Assets/HurricaneVR/Framework/Editor/Resources/HVRHandPoserEditor.uss
+- Assets/Oculus/Interaction/Runtime/Resources/Shaders/Imposter_Opaque.shader
+- Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Outline.mat
+- Assets/HurricaneVR/Framework/Resources/RecoilSettings/HVR_Recoil_PumpShotgun.asset
+- Assets/HurricaneVR/Framework/Editor/Resources/HVRSetupWindow.uss
+- Assets/Oculus/Avatar/Resources/Materials/AvatarSurfaceShaderSelfOccluding.shader
+- Assets/Oculus/Avatar/Resources/FallbackTextures/fallback_diffuse_roughness_2048.png
+- Assets/HurricaneVR/Framework/Resources/HVR_ForcePullSettings.asset
+- Assets/HurricaneVR/TechDemo/Resources/HVR Example Socketables.asset
+- Assets/XRI/Settings/Resources/InteractionLayerSettings.asset
+- Assets/HurricaneVR/Framework/Editor/Resources/HVRManagementWindow.uxml
+- Assets/HurricaneVR/Framework/Editor/Resources/HVRBlendEditor.uss
+- Assets/HurricaneVR/Framework/Resources/Haptics/HVR_GrabHaptics.asset
+- Assets/TextMesh Pro/Examples & Extras/Resources/Color Gradient Presets/Blue to
+  Purple - Vertical.asset
+- Assets/TextMesh Pro/Examples & Extras/Resources/Color Gradient Presets/Light to
+  Dark Green - Vertical.asset
+- Assets/Oculus/Interaction/Runtime/Resources/Shaders/Imposter_AlphaCutout.shader
+- Assets/Oculus/Interaction/Runtime/Resources/Shaders/Imposter_AlphaToMask.shader
+- Assets/Resources/OculusRuntimeSettings.asset
+- Assets/Oculus/Interaction/Runtime/Resources/Shaders/UIOverlay.shader
+- Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Electronic Highway
+  Sign SDF.asset
+- Assets/HurricaneVR/Framework/Resources/DefaultPoses/OculusCustomHandFist.asset
+- Assets/Oculus/Avatar/Resources/FallbackTextures/fallback_diffuse_roughness_1024.png
+- Assets/Oculus/Avatar/Resources/Materials/Expressive/Avatar_PC_SingleComponentExpressive.shader
+- Assets/Oculus/VR/Resources/OVRMRUnlit.shader
+- Assets/Oculus/Avatar/Resources/Materials/Expressive/AvatarEyeLens.shader
+- Assets/HurricaneVR/TechDemo/Resources/StabSettings/stabber_medium_sharp.asset
+- Assets/TextMesh Pro/Resources/TMP Settings.asset
+- Assets/Resources/OVRPlatformToolSettings.asset
+- Assets/Oculus/Avatar/Resources/Materials/AvatarSurfaceShaderPBS.shader
+- Assets/HurricaneVR/Framework/Resources/DefaultPoses/OculusHandPoint.asset
+- Assets/Oculus/Avatar/Resources/Materials/Version1.5/Avatar_Mobile_SingleComponent.shader
+- Assets/HurricaneVR/Framework/Editor/Resources/HVRBlendEditor.uxml
+- Assets/HurricaneVR/Framework/Resources/HandSettings/HVR_Pistol_TwoHand.asset
+- Assets/TextMesh Pro/Examples & Extras/Resources/Color Gradient Presets/Dark to
+  Light Green - Vertical.asset
+- Assets/Oculus/Avatar/Resources/FallbackTextures/fallback_normal_2048.png
+- Assets/Oculus/Interaction/Runtime/Resources/Shaders/Imposter_Underlay.shader
+- Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Bangers SDF -
+  Drop Shadow.mat
+- Assets/Oculus/Interaction/Runtime/Resources/Shaders/Imposter_Underlay_AA.shader
+- Assets/HurricaneVR/TechDemo/Resources/mjolnir_pull.asset
+- Assets/Oculus/Voice/Lib/Wit.ai/Resources/continue-with-fb.png
+- Assets/Oculus/Avatar/Resources/Materials/Version1.5/Avatar_Mobile_Loader.shader
+- Assets/HurricaneVR/Framework/Resources/HVRSettings.asset
+- Assets/HurricaneVR/Framework/Resources/HandSettings/HVR_DefaultHandSettings.asset
+- Assets/HurricaneVR/Framework/Resources/HVR_ControllerOffsets.asset
+- Assets/Oculus/Voice/Lib/Wit.ai/Resources/witai.png
+- Assets/Oculus/Avatar/Resources/Materials/AvatarSurfaceShader.shader
+Dependencies:
+- F:/Testing Station-001/Testing Station/OVRAssetBundles/OVRMasterBundle/asset_shader0
+- F:/Testing Station-001/Testing Station/OVRAssetBundles/OVRMasterBundle/asset_ttf0

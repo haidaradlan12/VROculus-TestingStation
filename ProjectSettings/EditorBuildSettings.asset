@@ -1,0 +1,101 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Skripsi/Scene/Home.unity
+    guid: a0a11cd40fc87b349b268e3dd69cf7b8
+  - enabled: 1
+    path: Assets/Asset Scene/Materi 3.unity
+    guid: 2986901e1175bf14bb0490dcce23edbe
+  - enabled: 1
+    path: Assets/Pak Didik/Scene/CABLE GUIDE.unity
+    guid: d1586028b220c374c9bc762f03df36e5
+  - enabled: 1
+    path: Assets/Pak Didik/Scene/AIR CUSHIONED SLIDE MODULE.unity
+    guid: 67ee5cc5abe532643a8c62a4f5a335ed
+  - enabled: 1
+    path: Assets/Pak Didik/Scene/RETRO REFLECTIVE SENSOR.unity
+    guid: 14070ab80fd200449a3edb46c2bb236e
+  - enabled: 1
+    path: Assets/Pak Didik/Scene/COMPARATOR.unity
+    guid: a8388e051c021554bb3b1294d10a81e1
+  - enabled: 1
+    path: Assets/Pak Didik/Scene/MEASURING MODULE.unity
+    guid: b81ab956957430f479a139809b414f69
+  - enabled: 1
+    path: Assets/Pak Didik/Scene/CAPACITIVE PROXIMITY SENSOR.unity
+    guid: a4bf13cc463fd6946b761e2aa8c29753
+  - enabled: 1
+    path: Assets/Pak Didik/Scene/Slide Module.unity
+    guid: fc587eac509c3784d9894710ea6592de
+  - enabled: 1
+    path: Assets/Pak Didik/Scene/LIFTING MODULE.unity
+    guid: 0cdff2c1caf8cc54f9b043e4fdb7a172
+  - enabled: 1
+    path: Assets/Pak Didik/Scene/RECOGNITION MODULE.unity
+    guid: 73b76d390141a85409893247d7cb2250
+  - enabled: 1
+    path: Assets/Skripsi/Scene/Fiber Optic Device.unity
+    guid: a610e0efa90f0ff4b9a9da251b6bd061
+  - enabled: 1
+    path: Assets/Skripsi/Scene/CP Terminal Valve.unity
+    guid: 37611ba2ea54a904082b372359b8b412
+  - enabled: 1
+    path: Assets/Skripsi/Scene/Tujuan.unity
+    guid: 80ee869b8a326c849b05f2952e539931
+  - enabled: 0
+    path: Assets/Skripsi/Scene/Materi 2.unity
+    guid: bf83f77d869d6374ab56073d2b817df0
+  - enabled: 1
+    path: Assets/Skripsi/Scene/Petunjuk.unity
+    guid: 91f3bcadb28dc814d82a026e966d557c
+  - enabled: 1
+    path: Assets/Skripsi/Scene/Terminal IO.unity
+    guid: 3fb3c3efa8dd3614786036d3b433c278
+  - enabled: 1
+    path: Assets/Skripsi/Scene/Air Service Unit.unity
+    guid: 60c43db5ebeafe548baf9a5ad0885deb
+  - enabled: 1
+    path: Assets/Skripsi/Scene/Cable Clip.unity
+    guid: 179fc3c9060e45e42a1ec1ae1b7dc310
+  - enabled: 1
+    path: Assets/Skripsi/Scene/Info.unity
+    guid: 79376aa216d62874ea04d78d2bdc7d6a
+  - enabled: 1
+    path: Assets/Skripsi/Scene/Vacuum Switch.unity
+    guid: 53b5d3e7c06e49c4f87ff6f71382ea03
+  - enabled: 1
+    path: Assets/Skripsi/Scene/Station Link Reciver.unity
+    guid: aefae5688697b8545b0fb645cff98b6d
+  - enabled: 1
+    path: Assets/Skripsi/Scene/Cable Duct.unity
+    guid: fe4938d81771cbc488d550294e675a3b
+  - enabled: 1
+    path: Assets/Skripsi/Scene/Troli.unity
+    guid: 5126219986fa10e44995372b4b13b5d5
+  - enabled: 1
+    path: Assets/Pak Didik/Scene/DIFFUSE SENSOR.unity
+    guid: d0fd4a7396a4ab145960b10c74b36fbc
+  - enabled: 1
+    path: Assets/Skripsi/Scene/Plate.unity
+    guid: 41918e54208fa5b47bd6876597fa2c4e
+  - enabled: 1
+    path: Assets/Skripsi/Scene/PLC.unity
+    guid: 162bd95540470114790b2ee4353e454a
+  - enabled: 1
+    path: Assets/Skripsi/Scene/Connector.unity
+    guid: 8f688febcc4ab4d42884fece8ebcc34b
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 104d1b62230dbd44cb5f06a2fe73aad8, type: 2}
+    Unity.XR.WindowsMR.Settings: {fileID: 11400000, guid: a13db587484ed44458d3e54dc34509b6, type: 2}
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: a566c6afd1140a14c9a30f69691b2812, type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: 687b78a05fade2944a4ea01156f4c9c2, type: 2}
+    com.unity.input.settings: {fileID: 11400000, guid: f02a6c233f47c2140b461a181c97abe9, type: 2}
+    com.unity.xr.magicleap.magic_leap_settings: {fileID: 11400000, guid: b08c3ae0e23bff44fac4ec7be35003ac, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 82177282e51bbad44b79b8657dcef2fa, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: ed35622a32b6a954895b04e825fe4b04, type: 2}
+    xr.sdk.mock-hmd.settings: {fileID: 11400000, guid: b84d350811bddb64bb1222dccd10c23c, type: 2}

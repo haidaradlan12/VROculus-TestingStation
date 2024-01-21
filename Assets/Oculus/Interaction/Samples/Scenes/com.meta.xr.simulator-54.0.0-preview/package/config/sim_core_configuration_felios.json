@@ -1,0 +1,8 @@
+{
+    "use_batch_mode": false,
+    "use_offscreen_mode": true,
+    "mock_data_replay_method": "single",
+    "__comment": "remove the prefix __ to enable log_location",
+    "__log_location": "meta_xrsim.log",
+    "log_level": "info"
+}
